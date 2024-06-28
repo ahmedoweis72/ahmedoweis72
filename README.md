@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning spring framwork
 - 💞️ I’m looking to collaborate on programing
 - 📫 How to reach me ahmedramadanmohamedoweis@gmail.com
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
   
 
 
