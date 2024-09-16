@@ -7,11 +7,10 @@ Dedicated and driven individual with a passion for continuous learning and growt
 
 **Skills:**  
 - Java
-- Python
 - Web Development
-- Database Management
+  
 
 
 
 **Education:**  
-Bachelor's Degree in Computer Science - University Name - Year
+Bachelor's Degree in Chemistry Science - Helwan University - 2020
