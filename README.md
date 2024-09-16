@@ -3,11 +3,11 @@
 ---
 
 **Profile:**  
-Dedicated and driven individual with a passion for continuous learning and growth. Proficient in programming languages like Python and Java, with experience in web development and database management.
-
+An enthusiastic dream chaser, knowledge seeker, and ambitious computer scientist with a strong drive to achieve goals.
 **Skills:**  
 - Java
 - Web Development
+- Spring Boot
   
 
 
