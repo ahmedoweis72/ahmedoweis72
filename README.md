@@ -5,6 +5,8 @@
 **Profile:**  
 An enthusiastic dream chaser, knowledge seeker, and ambitious computer scientist with a strong drive to achieve goals.
 **Skills:**  
+-React&NextJS
+-ٌث-
 - Java
 - Web Development
 - Spring Boot
