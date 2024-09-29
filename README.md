@@ -8,7 +8,6 @@ An enthusiastic dream chaser, knowledge seeker, and ambitious computer scientist
 
 
 
--ٌث-
 - Java
 - Web Development
 - Spring Boot
