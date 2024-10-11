@@ -1,21 +1,49 @@
-# Ahmed Ramadan
+# 👋 Hi, I'm Ahmed Ramadan!
 
----
+I'm a passionate software developer with experience in a variety of programming languages and frameworks. I love building solutions that solve real-world problems using cutting-edge technologies. Below, you'll find an overview of my skills, projects, and ways to connect with me.
 
-**Profile:**  
-An enthusiastic dream chaser, knowledge seeker, and ambitious computer scientist with a strong drive to achieve goals.
-**Skills:**  
+## 🛠️ Skills
 
-
-
+### Programming Languages:
 - Java
-- Web Development
+- Python
+- C++
+- JavaScript
+- Go
+
+### Other Skills:
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- SOAP
+- JUnit
+- JDBC
+- React
+- Next.js
+- Agile Methodologies
+
+### Frameworks and Tools:
 - Spring Boot
-- ReactJS
-- NextJs
-  
+- Spring Data JPA
+- Hibernate
+- REST
+- Swagger
+- Docker
+- Maven
+- Postman
+- Tailwind CSS
+- Bootstrap
+- Material UI
+
+### Database Management:
+- MySQL
+- PostgreSQL
+- SQL
 
 
+## 💬 Let's Connect!
+- **GitHub**: [github.com/ahmedoweis72](https://github.com/ahmedoweis72)
+- **LinkedIn**: [linkedin.com/in/ahmed-ramadan-313173288/](https://www.linkedin.com/in/ahmed-ramadan-313173288/)
+- **Email**: ahmedramadanmohamedoweis@gmail.com
 
-**Education:**  
-Bachelor's Degree in Chemistry Science - Helwan University - 2020
+
+Feel free to check out my repositories and get in touch if you'd like to collaborate or just chat about technology!
