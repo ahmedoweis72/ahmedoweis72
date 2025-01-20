@@ -5,9 +5,12 @@ I'm a passionate software developer with experience in a variety of programming 
 ## 🛠️ Skills
 
 ### Programming Languages:
+- C++
+- HTML
+- CSS
+- C
 - Java
 - Python
-- C++
 - JavaScript
 - Go
 
